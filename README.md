@@ -17,6 +17,7 @@ expo start
 ```
 
 When it is done, you should see this screen: 
+
 ![Image](https://i.gyazo.com/a4db281020fd3a3f71e7fb94d9784221.png)
 
 From here, you have two options. You can either run the application on an Android emulator, or run it on an actual Android device.
